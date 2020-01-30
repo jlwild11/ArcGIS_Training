@@ -1,0 +1,24 @@
+Course Type|Course Name|Time|Cost|Reviews|Entry|Associate|Professional|Cert Prep|Course Number
+Instructor-Led|Migrating from ArcMap to ArcGIS Pro|2 Days (16 Hours)|$1,400|(2460)|||Yes||1
+Document|Getting Started with ArcGIS Pro: A Quick Start Guide to Downloading, Installing, and Licensing ArcGIS Pro|23 Pages|Free|(670)|||Yes||2
+Document|ArcGIS Pro Terminology Guide|6 Pages|Free|(1172)|||Yes||3
+Web Course|Getting Started with ArcGIS Pro|5 Hours, 30 Minutes|Free|(7992)|||Yes||4
+Web Course|Automating Workflows Using ArcGIS Pro Tasks|4 Hours|Requires Maintenance|(601)|||Yes||5
+Tutorial|Get Started with ArcGIS Pro|3 Hours|Free||||Yes||6
+Web Course|Getting Started with the Geodatabase|3 Hours, 30 Minutes|Requires Maintenance|(6285)|||Yes||7
+Web Course|Getting Started with Geodatabase Topology|3 Hours, 15 Minutes|Requires Maintenance|(1653)|||Yes||8
+Instructor-Led|Managing Geospatial Data in ArcGIS|2 Days (16 Hours)|$1,400|(360)|||Yes||9
+Instructor-Led|Creating and Editing Data with ArcGIS Pro|2 Days (16 Hours)|$1,400|(316)|||Yes||10
+Instructor-Led|Field Data Collection and Management Using ArcGIS|2 Days (16 Hours)|$1,400|(1278)|||Yes||11
+Web Course|Integrating Data in ArcGIS Pro|1 Hour, 15 Minutes|Requires Maintenance|(1955)|||Yes||12
+Instructor-Led|Creating Maps and Visualizations with ArcGIS|3 Days (24 Hours)|$2,100|(82)|||Yes||13
+Web Course|Getting Started with Mapping and Visualization|1 Hour, 15 Minutes|Free|(219)|||Yes||14
+Instructor-Led|Sharing GIS Content Using ArcGIS|2 Days (16 Hours)|$1,400|(407)|||Yes||15
+Web Course|Sharing Maps and Layers with ArcGIS Pro|3 Hours, 30 Minutes|Requires Maintenance|(753)|||Yes||16
+Instructor-Led|Configuring Web Apps Using Web AppBuilder for ArcGIS|1 Day (8 Hours)|$700|(452)|||Yes||17
+Instructor-Led|Spatial Analysis with ArcGIS Pro|3 Days (24 Hours)|$2,100|(343)|||Yes||18
+Web Course|Getting Started with Spatial Analysis|1 Hour, 10 Minutes|Free|(424)|||Yes||19
+Web Course|Introduction to Space-Time Analysis|25 Minutes|Requires Maintenance|(55)|||Yes||20
+Web Course|Python Scripting for Geoprocessing Workflows|3 Hours, 30 Minutes|Requires Maintenance|(1874)|||Yes||21
+Web Course|Python for Everyone|3 Hours, 30 Minutes|Free|(4948)|||Yes||22
+Web Course|Creating Python Scripts for Raster Analysis|1 Hour|Requires Maintenance|(645)|||Yes||23

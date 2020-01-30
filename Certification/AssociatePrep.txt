@@ -1,0 +1,25 @@
+Course Type|Course Name|Time|Cost|Reviews|Entry|Associate|Professional|Cert Prep|Course Number
+Web Course|Querying Data Using ArcGIS Pro|30 Minutes|Requires Maintenance|(2075)||Yes|||1
+Instructor-Led|Migrating from ArcMap to ArcGIS Pro|2 Days (16 Hours)|$1,400|(2460)||Yes|||2
+Instructor-Led|Managing Geospatial Data in ArcGIS|2 Days (16 Hours)|$1,400|(360)||Yes|||3
+Web Course|ArcGIS Pro Basics|50 Minutes|Free|(466)||Yes|||4
+Web Course|Getting Started with ArcGIS Pro|5 Hours, 30 Minutes|Free|(7992)||Yes|||5
+Video|ArcGIS Apps for the Field: An Introduction|65 Minutes|Requires Maintenance|(522)||Yes|||6
+Web Course|Getting Started with Data Management|1 Hour, 25 Minutes|Free|(181)||Yes|||7
+Web Course|Managing Raster Data Using ArcGIS|2 Hours|Requires Maintenance|(814)||Yes|||8
+Web Course|Integrating Data in ArcGIS Pro|1 Hour, 15 Minutes|Requires Maintenance|(1955)||Yes|||9
+Instructor-Led|Introduction to GIS Using ArcGIS|2 Days (16 Hours)|$1,400|(1671)||Yes|||10
+Instructor-Led|Creating and Editing Data with ArcGIS Pro|2 Days (16 Hours)|$1,400|(316)||Yes|||11
+Web Course|Editing Basics in ArcGIS Pro|2 Hours|Requires Maintenance|(1897)||Yes|||12
+Web Course|Editing 3D Features Using ArcGIS Pro|1 Hour, 15 Minutes|Requires Maintenance|(430)||Yes|||13
+Web Course|Getting Started with Mapping and Visualization|1 Hour, 15 Minutes|Free|(219)||Yes|||14
+Web Course|Sharing Maps and Layers with ArcGIS Pro|3 Hours, 30 Minutes|Requires Maintenance|(753)||Yes|||15
+Web Course|Getting Started with Spatial Analysis|1 Hour, 10 Minutes|Free|(424)||Yes|||16
+Web Course|Introduction to Space-Time Analysis|25 Minutes|Requires Maintenance|(55)||Yes|||17
+Web Course|Python for Everyone|3 Hours, 30 Minutes|Free|(4948)||Yes|||18
+Web Course|Python Scripting for Geoprocessing Workflows|3 Hours, 30 Minutes|Requires Maintenance|(1874)||Yes|||19
+Web Course|Creating Python Scripts for Raster Analysis|1 Hour|Requires Maintenance|(645)||Yes|||20
+Web Course|Automating Workflows Using ArcGIS Pro Tasks|4 Hours|Requires Maintenance|(601)||Yes|||21
+Web Course|Displaying Data in ArcGIS Pro|1 Hour, 15 Minutes|Requires Maintenance|(2051)||Yes|||22
+Web Course|Labeling Features Using ArcGIS Pro|30 Minutes|Requires Maintenance|(1177)||Yes|||23
+Web Course|Managing Map Layers in ArcGIS Pro|1 Hour|Requires Maintenance|(1842)||Yes|||24

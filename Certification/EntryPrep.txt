@@ -1,0 +1,19 @@
+Course Type|Course Name|Time|Cost|Reviews|Entry|Associate|Professional|Cert Prep|Course Number
+Instructor-Led|Introduction to GIS Using ArcGIS|2 Days (16 Hours)|$1,400|(1671)|Yes||||1
+Instructor-Led|ArcGIS Pro: Essential Workflows|3 Days (24 Hours)|$2,100|(1854)|Yes||||2
+Web Course|Basics of Geographic Coordinate Systems|1 Hour, 15 Minutes|Requires Maintenance|(6854)|Yes||||3
+Training Seminar|Maps and More: Discover the Living Atlas of the World|1 Hour|Free|(767)|Yes||||4
+Tutorial|Get Started with ArcGIS Online|30 Minutes|Free||Yes||||5
+Tutorial|Get Started with ArcGIS Pro|3 Hours|Free||Yes||||6
+Video|ArcGIS Apps for the Field: An Introduction|65 Minutes|Requires Maintenance|(522)|Yes||||7
+Web Course|Getting Started with Data Management|1 Hour, 25 Minutes|Free|(181)|Yes||||8
+Web Course|Getting Started with Mapping and Visualization|1 Hour, 15 Minutes|Free|(219)|Yes||||9
+Web Course|Editing Basics in ArcGIS Pro|2 Hours|Requires Maintenance|(1897)|Yes||||10
+Web Course|Symbolizing Map Layers|1 Hour, 45 Minutes|Requires Maintenance|(65)|Yes||||11
+Web Course|Sharing Maps and Layers with ArcGIS Pro|3 Hours, 30 Minutes|Requires Maintenance|(753)|Yes||||12
+Web Course|Getting Started with Spatial Analysis|1 Hour, 10 Minutes|Free|(424)|Yes||||13
+Web Course|Location-Enabling Data|1 Hour, 15 Minutes|Requires Maintenance|(12)|Yes||||14
+Web Course|GIS Basics|2 Hours, 35 Minutes|Free|(229)|Yes||||15
+Web Course|ArcGIS Online Basics|1 Hour, 55 Minutes|Free|(252)|Yes||||16
+Web Course|ArcGIS Pro Basics|50 Minutes|Free|(466)|Yes||||17
+Web Course|Integrating Data in ArcGIS Pro|1 Hour, 15 Minutes|Requires Maintenance|(1955)|Yes||||18

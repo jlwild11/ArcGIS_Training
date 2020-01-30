@@ -1,0 +1,34 @@
+Course Type|Course Name|Time|Cost|Reviews|Entry|Associate|Professional|Cert Prep|Course Number
+Web Course|GIS Basics|2 Hours, 35 Minutes|Free|(229)||||Yes|1
+Web Course|ArcGIS Online Basics|1 Hour, 55 Minutes|Free|(252)||||Yes|2
+Document|Getting Started with ArcGIS Pro: A Quick Start Guide to Downloading, Installing, and Licensing ArcGIS Pro|23 Pages|Free|(670)||||Yes|3
+Document|ArcGIS Pro Terminology Guide|6 Pages|Free|(1172)||||Yes|4
+Web Course|ArcGIS Pro Basics|50 Minutes|Free|(466)||||Yes|5
+Web Course|Getting Started with ArcGIS Pro|5 Hours, 30 Minutes|Free|(7992)||||Yes|6
+Web Course|Basics of Geographic Coordinate Systems|1 Hour, 15 Minutes|Requires Maintenance|(6854)||||Yes|7
+Web Course|Automating Workflows Using ArcGIS Pro Tasks|4 Hours|Requires Maintenance|(601)||||Yes|8
+Training Seminar|Maps and More: Discover the Living Atlas of the World|1 Hour|Free|(767)||||Yes|9
+Web Course|Getting Started with Mapping and Visualization|1 Hour, 15 Minutes|Free|(219)||||Yes|10
+Web Course|Location-Enabling Data|1 Hour, 15 Minutes|Requires Maintenance|(12)||||Yes|11
+Web Course|Symbolizing Map Layers|1 Hour, 45 Minutes|Requires Maintenance|(65)||||Yes|12
+Web Course|Labeling Map Features|1 Hour, 35 Minutes|Requires Maintenance|(34)||||Yes|13
+Web Course|3D Visualization Using ArcGIS Pro|2 Hours, 15 Minutes|Requires Maintenance|(1486)||||Yes|14
+Web Course|Creating a Map Layout|1 Hour, 15 Minutes|Requires Maintenance|(57)||||Yes|15
+Web Course|Sharing Maps and Layers with ArcGIS Pro|3 Hours, 30 Minutes|Requires Maintenance|(753)||||Yes|16
+Web Course|Sharing 3D Content Using Scene Layer Packages|2 Hours|Requires Maintenance|(123)||||Yes|17
+Web Course|Getting Started with the Geodatabase|3 Hours, 30 Minutes|Requires Maintenance|(6285)||||Yes|18
+Web Course|Editing Basics in ArcGIS Pro|2 Hours|Requires Maintenance|(1897)||||Yes|19
+Web Course|Integrating Data in ArcGIS Pro|1 Hour, 15 Minutes|Requires Maintenance|(1955)||||Yes|20
+Web Course|Getting Started with Data Management|1 Hour, 25 Minutes|Free|(181)||||Yes|21
+Web Course|Getting Started with Geodatabase Topology|3 Hours, 15 Minutes|Requires Maintenance|(1653)||||Yes|22
+Training Seminar|Get to Know ArcGIS Utility Network Management|1 Hour|Requires Maintenance|(372)||||Yes|23
+Web Course|Getting Started with Geoprocessing|1 Hour, 30 Minutes|Requires Maintenance|(101)||||Yes|24
+Web Course|Getting Started with Spatial Analysis|1 Hour, 10 Minutes|Free|(424)||||Yes|25
+Web Course|Introduction to Space-Time Analysis|25 Minutes|Requires Maintenance|(55)||||Yes|26
+Web Course|Performing Viewshed Analysis in ArcGIS Pro|1 Hour|Requires Maintenance|(300)||||Yes|27
+Web Course|Performing Line of Sight Analysis|1 Hour, 15 Minutes|Requires Maintenance|(269)||||Yes|28
+Web Course|Building Geoprocessing Models Using ArcGIS Pro|2 Hours, 30 Minutes|Requires Maintenance|(997)||||Yes|29
+Web Course|Python for Everyone|3 Hours, 30 Minutes|Free|(4948)||||Yes|30
+Web Course|Python Scripting for Geoprocessing Workflows|3 Hours, 30 Minutes|Requires Maintenance|(1874)||||Yes|31
+Web Course|Creating Python Scripts for Raster Analysis|1 Hour|Requires Maintenance|(645)||||Yes|32
+Video|ArcGIS Apps for the Field: An Introduction|65 Minutes|Requires Maintenance|(522)||||Yes|33
